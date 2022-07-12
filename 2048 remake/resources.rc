@@ -1,0 +1,3 @@
+#define ICON_1 101
+
+ICON_1 ICON "icon.ico"
